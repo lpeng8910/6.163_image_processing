@@ -1,0 +1,4 @@
+
+boost each images brightness then layer average them.
+average images together first then brighten final image.
+
