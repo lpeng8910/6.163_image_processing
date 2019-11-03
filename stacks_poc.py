@@ -38,6 +38,8 @@ stacks_name = stack_images(1)
 boost_brightness(stacks_name,"enhanced_stack",10.0)
 boost_brightness(PATH_TO_PARTITIONS+"partition1_tiff/partition1.avi00000001.tif","enhanced_single_partition_1_frame_1",10.0)
 
+        
+    
 
 
 
